@@ -7,7 +7,7 @@ A small program I wrote to program an Arduino to detect surrounding environment'
 + The LED brightness increases if lower surrounding light detected.
 + The LED brightness decreases if higher surrounding light detected.
 
-## Requirements tools and software:
+## Required tools and software:
 + Arduino Uno kit.
 + Light sensor.
 + Arduino IDE.
